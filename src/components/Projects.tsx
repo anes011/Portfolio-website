@@ -40,8 +40,8 @@ export function Projects() {
         { label: 'Asset bundles', value: '11.8kb entry' },
         { label: 'Render rate', value: '60.0 fps stable' }
       ],
-      githubUrl: 'https://github.com/anesbibo03/aura-minimal-store',
-      liveUrl: 'https://aura-storefront.example.com',
+      githubUrl: 'https://github.com/anes011/E-Commerce-App.git',
+      liveUrl: 'https://e-commerce-app-lemon-delta.vercel.app/',
       imageUrl: ecommerceImg,
       sandboxId: 'ecommerce'
     },
@@ -63,8 +63,8 @@ export function Projects() {
         { label: 'UI layout latency', value: 'Immediate' },
         { label: 'Performance impact', value: '< 0.3% CPU' }
       ],
-      githubUrl: 'https://github.com/anesbibo03/soundstream-player',
-      liveUrl: 'https://soundstream-player.example.com',
+      githubUrl: 'https://github.com/anes011/Music-Player-App.git',
+      liveUrl: 'https://music-player-app-iota.vercel.app/',
       imageUrl: musicImg,
       sandboxId: 'musicplayer'
     },
@@ -86,8 +86,8 @@ export function Projects() {
         { label: 'Grid scale accuracy', value: '100% Fluid' },
         { label: 'Uptime simulation', value: '99.98% stable' }
       ],
-      githubUrl: 'https://github.com/anesbibo03/aether-console-dashboard',
-      liveUrl: 'https://aether-console.example.com',
+      githubUrl: 'https://github.com/anes011/Dashboard-Showcase-App.git',
+      liveUrl: 'https://dashboard-showcase-app.vercel.app/',
       imageUrl: dashboardImg,
       sandboxId: 'dashboard'
     }
