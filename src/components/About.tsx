@@ -29,17 +29,17 @@ export function About() {
     {
       title: 'CS50X Harvard University\'s Computer Science Certificate',
       issuer: 'Harvard University',
-      link: "./src/assets/CS50X.pdf"
+      link: "./files/CS50X.pdf"
     },
     {
       title: 'Foundational C# with Microsoft Certificate',
       issuer: 'Microsoft - freeCodeCamp',
-      link: "./src/assets/Microsoft_certificate.pdf"
+      link: "./files/Microsoft_certificate.pdf"
     },
     {
       title: 'Responsive Web Design Certificate',
       issuer: 'freeCodeCamp',
-      link: "./src/assets/Web_Dev_certificate.pdf"
+      link: "./files/Web_Dev_certificate.pdf"
     }
   ];
 
@@ -260,7 +260,7 @@ export function About() {
             </div>
 
             <div className="flex mt-5">
-              <a href="./src/assets/Anes_Bouattou_CV.pdf" target="_blank"
+              <a href="./files/Anes_Bouattou_CV.pdf" target="_blank"
                 className="flex-grow bg-cyan-500 hover:bg-cyan-600 text-black font-semibold text-xs py-2.5 px-4 rounded-xl flex items-center justify-center gap-2 tracking-wider font-mono transition-all glow-cyan-sm cursor-pointer whitespace-nowrap"
               >
                 <FileDown className="w-3.5 h-3.5 stroke-[2.5]" /> DOWNLOAD CV
