@@ -1,0 +1,6 @@
+{
+  "name": "Software Engineer Portfolio",
+  "description": "A high-performance interactive developer portfolio featuring a live terminal hero section, fluid page transitions, dark mode toggle, and playable custom mock playgrounds for three featured web apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
