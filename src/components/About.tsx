@@ -29,7 +29,7 @@ export function About() {
     {
       title: 'CS50X Harvard University\'s Computer Science Certificate',
       issuer: 'Harvard University',
-      link: "./files/CS50X.pdf"
+      link: "./files/harvard_cert.pdf"
     },
     {
       title: 'Foundational C# with Microsoft Certificate',
